@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Reference files (local use only)
+*.local.*
+build-spec.md
+apps-script-setup.gs
+
+# Dependencies
+node_modules/
